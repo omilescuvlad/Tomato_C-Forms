@@ -1,0 +1,12 @@
+D:\Desktop\proiect_mtp\proiect_mtp\obj\Debug\proiect_mtp.csproj.AssemblyReference.cache
+D:\Desktop\proiect_mtp\proiect_mtp\obj\Debug\proiect_mtp.login.resources
+D:\Desktop\proiect_mtp\proiect_mtp\obj\Debug\proiect_mtp.Properties.Resources.resources
+D:\Desktop\proiect_mtp\proiect_mtp\obj\Debug\proiect_mtp.csproj.GenerateResource.cache
+D:\Desktop\proiect_mtp\proiect_mtp\obj\Debug\proiect_mtp.csproj.CoreCompileInputs.cache
+D:\Desktop\proiect_mtp\proiect_mtp\bin\Debug\proiect_mtp.exe.config
+D:\Desktop\proiect_mtp\proiect_mtp\bin\Debug\proiect_mtp.exe
+D:\Desktop\proiect_mtp\proiect_mtp\bin\Debug\proiect_mtp.pdb
+D:\Desktop\proiect_mtp\proiect_mtp\obj\Debug\proiect_mtp.exe
+D:\Desktop\proiect_mtp\proiect_mtp\obj\Debug\proiect_mtp.pdb
+D:\Desktop\proiect_mtp\proiect_mtp\obj\Debug\proiect_mtp.client_menu.resources
+D:\Desktop\proiect_mtp\proiect_mtp\obj\Debug\proiect_mtp.manager_menu.resources
